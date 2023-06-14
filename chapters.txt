@@ -18,6 +18,3 @@ Chapters:
 05:07:24 Basic GitHub Workflow
 05:19:01 Authenticating to Push to GitHub
 05:43:47 Forking GitHub Repos
-first update  line 21
-scond update line 22
-third line in testing Branches
