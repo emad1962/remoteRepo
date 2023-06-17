@@ -1,1 +1,2 @@
 line 1 in file2 on feature branch
+line 2 in file2 on local repo
